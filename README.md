@@ -15,7 +15,7 @@ The games adapeted here to C#.
 ## Games
 - [Robot Missile](src/RobotMissile/README.md)
 - [The Vital Message](src/TheVitalMessage/README.md)
-- [Shootout]()
+- [Shootout](src/Shootout/README.md)
 - [Desert Tank Battle]()
 - [Battle at Traitor's Castle]()
 - [Robot Invaders]()
