@@ -1,3 +1,5 @@
+namespace TheVitalMessage;
+
 public static class ByTheBook
 {
   public static void RunGame()

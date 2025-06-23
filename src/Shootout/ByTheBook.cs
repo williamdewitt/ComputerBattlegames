@@ -1,3 +1,5 @@
+namespace Shootout;
+
 public static class ByTheBook
 {
   public static async Task RunGame()

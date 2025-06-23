@@ -1,3 +1,5 @@
+namespace RobotMissile;
+
 public static class ByTheBook
 {
   public static void RunGame()

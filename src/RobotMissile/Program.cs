@@ -1,2 +1,7 @@
-﻿// Play the game as described in the book
-ByTheBook.RunGame();
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        RobotMissile.ByTheBook.RunGame();
+    }
+}
